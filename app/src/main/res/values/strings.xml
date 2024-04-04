@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PruebaNexos</string>
+    <string name="edt_search">Buscar Tabla</string>
+    <string name="text_info">Para acceder a los detalles, presione la autorización que desee ver.</string>
+    <string name="errorTitle">Error de datos</string>
+    <string name="successTitle">Proceso Exitoso</string>
+    <string name="errorText">No hemos podido encontrar la información. Por favor, diligencie correctamente el número de recibo o ingrese una nueva autorización.</string>
+    <string name="errorText2">No hemos podido encontrar la información. Por favor, diligencie correctamente el número de recibo o ingrese una nueva autorización.</string>
+    <string name="textdelete">Anular Transacción</string>
+    <string name="Author">Jorge Alejandro Achury Fonseca</string>
+    <string name="cel">+57 3156312891</string>
+    <string name="nameTest">Prueba Nexos</string>
+</resources>
